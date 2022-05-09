@@ -1,8 +1,9 @@
 <h1>Seri Pelajaran OOP(Object Oriented Programming)</h1>
+
 pelajaran pertama tentang super keyword
-- untuk mengakses method yang dimiliki class parent, kita bisa menggunakan kata kunci super
-- super digunakan untuk mengakses class parent
-- tidak hanya method, field milik parent class pun bisa kita akses menggunakan kata kunci super
+* untuk mengakses method yang dimiliki class parent, kita bisa menggunakan kata kunci super
+* super digunakan untuk mengakses class parent
+* tidak hanya method, field milik parent class pun bisa kita akses menggunakan kata kunci super
 
 contoh code sebagai berikut:
 ```java
